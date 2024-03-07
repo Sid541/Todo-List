@@ -1,0 +1,41 @@
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+    font-weight: 700;
+
+}
+.btn-success{
+    background-color: green;
+    height: 40px;
+    margin-left: 50px;
+    color: white;
+    padding: 11px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  min-width: 80px;
+    
+    
+    
+    
+}
+.col-4{
+    margin-left: 50px;
+}
+
+.btn-danger{
+    background-color: red;
+    color: white;
+}
+.date{
+    margin-left: 87px;
+}
+div{
+    margin-bottom: 10px;
+}
+
+
+
+
